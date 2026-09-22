@@ -1,16 +1,25 @@
-## Hi there 👋
+# Mahmoud
 
-<!--
-**mahmoud8999/mahmoud8999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering portfolio focused on building practical systems for real-time data ingestion, streaming, storage, and processing.
 
-Here are some ideas to get you started:
+## Data Engineering Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 01 — Binance WebSocket Client
+
+Real-time cryptocurrency market data monitor built with Python, asyncio, WebSockets, and Textual.
+
+**Technologies:** Python · asyncio · WebSockets · Binance WebSocket API · Textual
+
+**Key features:**
+- Real-time Binance 1-second OHLCV market data
+- Dynamic WebSocket subscriptions and unsubscriptions
+- Automatic reconnection and subscription restoration
+- Heartbeat monitoring
+- Interactive terminal user interface
+- Connection and subscription status monitoring
+
+[View Project](https://github.com/mahmoud8999/binance-websocket-client)
+
+---
+
+More data engineering projects will be added as they are completed.
