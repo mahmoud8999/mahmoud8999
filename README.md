@@ -1,4 +1,4 @@
-# Mahmoud
+# Projects
 
 Data Engineering portfolio focused on building practical systems for real-time data ingestion, streaming, storage, and processing.
 
