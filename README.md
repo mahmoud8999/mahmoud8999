@@ -26,7 +26,9 @@ Real-time cryptocurrency market data monitor built with Python, asyncio, WebSock
 Real-time cryptocurrency market monitoring application built with Python,
 Binance WebSockets, Textual, asyncio, and Docker.
 
-Features:
+**Technologies:** Python · asyncio · WebSockets · Binance WebSocket API · Textual · Docker · Linux
+
+**Key Features:**
 - Object-oriented WebSocket client
 - Real-time market data streaming
 - Dynamic stream subscriptions
