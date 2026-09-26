@@ -22,4 +22,20 @@ Real-time cryptocurrency market data monitor built with Python, asyncio, WebSock
 
 ---
 
+### 02 — Binance Market TUI
+Real-time cryptocurrency market monitoring application built with Python,
+Binance WebSockets, Textual, asyncio, and Docker.
+
+Features:
+- Object-oriented WebSocket client
+- Real-time market data streaming
+- Dynamic stream subscriptions
+- Interactive Textual TUI
+- Docker containerization
+- VPS deployment
+
+[View Project](https://github.com/mahmoud8999/binance-market-tui)
+
+--- 
+
 More data engineering projects will be added as they are completed.
