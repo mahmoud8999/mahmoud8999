@@ -40,4 +40,22 @@ Binance WebSockets, Textual, asyncio, and Docker.
 
 --- 
 
+### 03 — GTFS Realtime Pipeline
+
+Real-time data ingestion and streaming pipeline that retrieves railway vehicle-position data from Malaysia's GTFS Realtime API, processes Protocol Buffers messages, and publishes normalized records to Apache Kafka using Redpanda.
+
+**Technologies:** Python · REST API · Protocol Buffers · Apache Kafka · Redpanda · Docker · ThreadPoolExecutor · JSON
+
+**Key Features:**
+- Real-time railway vehicle-position data ingestion from a REST API
+- GTFS Realtime Protocol Buffers decoding and data normalization
+- Kafka producer and consumer implementation using Confluent Kafka
+- Redpanda message broker deployed with Docker Compose
+- Change detection to prevent publishing identical API responses
+- Concurrent producer and consumer execution using Python threads
+- Kafka message serialization and deserialization using JSON
+- Graceful shutdown and error handling
+
+[View Project](https://github.com/mahmoud8999/gtfs-realtime-pipeline)
+
 More data engineering projects will be added as they are completed.
