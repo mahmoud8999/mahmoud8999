@@ -59,22 +59,3 @@ Real-time data ingestion and streaming pipeline that retrieves railway vehicle-p
 [View Project](https://github.com/mahmoud8999/gtfs-realtime-pipeline)
 
 --- 
-
-### 04 — Binance Historical OHLCV Data Pipeline
-
-Historical cryptocurrency market data pipeline built with Python, Binance REST API, PySpark, PyArrow, and Apache Parquet.
-
-**Technologies:** Python · REST API · PySpark · PyArrow · Pandas · Apache Parquet
-
-**Key Features:**
-- Historical OHLCV data ingestion from Binance REST API
-- Batch processing of multiple cryptocurrency symbols
-- Data transformation using PySpark DataFrames
-- Six data quality validation checks
-- Snappy-compressed Parquet storage
-- Hive-style partitioning by cryptocurrency symbol
-- Parquet reading and schema verification
-
-[View Project](https://github.com/mahmoud8999/binance-ohlcv-parquet)
-
-More data engineering projects will be added as they are completed.
