@@ -59,3 +59,27 @@ Real-time data ingestion and streaming pipeline that retrieves railway vehicle-p
 [View Project](https://github.com/mahmoud8999/gtfs-realtime-pipeline)
 
 --- 
+
+### 04 — Binance Parquet & DuckDB Analytics
+
+Historical cryptocurrency market data ingestion and analytics pipeline built with Python, Binance REST API, PyArrow, Apache Parquet, and DuckDB.
+
+**Technologies:** Python · REST API · Requests · PyArrow · Apache Parquet · DuckDB · SQL
+
+**Key Features:**
+- Historical hourly OHLCV market data ingestion from Binance REST API
+- Multi-symbol data retrieval with API pagination
+- Batch-based data processing using PyArrow
+- Schema definition and columnar data transformation
+- RecordBatch and RecordBatchReader implementation
+- Efficient historical market data storage using Apache Parquet
+- SQL analytics directly on Parquet files using DuckDB
+- Historical data validation and missing candle detection using SQL window functions
+
+[View Project](https://github.com/mahmoud8999/binance-parquet-duckdb)
+
+---
+
+### More Projects Coming Soon
+
+This portfolio is continuously evolving, with upcoming projects exploring advanced data engineering technologies, scalable data pipelines, distributed processing, and analytical systems.
